@@ -1,0 +1,2 @@
+# kalkaletar
+Just a calculator
